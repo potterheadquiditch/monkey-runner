@@ -19,7 +19,7 @@ function preload(){
   bananaimage = loadImage("banana.png");
   
   obstacleimage = loadImage("obstacle.png");
-  dm=loadSound("mood.mp3")
+  dm=loadSound("mm.mp3")
   bgi = loadImage("aa.jpg");
 }
 
